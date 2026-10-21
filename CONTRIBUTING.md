@@ -1,13 +1,21 @@
 # Contributing to Campus-Hub
 
+<<<<<<< Updated upstream
 ## 1. Before Starting
+=======
+## 1. Before Starting 
+>>>>>>> Stashed changes
 
 - Check the relevant GitHub Issue.
 - Understand the task and its acceptance criteria.
 - Avoid duplicating work already assigned to another contributor.
 - Ask the team if anything is unclear.
 
+<<<<<<< Updated upstream
 ## 2. Branch Naming  
+=======
+## 2. Branch Naming 
+>>>>>>> Stashed changes
 
 Create a separate branch for each task.
 
@@ -29,7 +37,11 @@ Examples:
 
 Use lowercase letters and hyphens in branch names.
 
+<<<<<<< Updated upstream
 ## 3. Commit Messages
+=======
+## 3. Commit Messages 
+>>>>>>> Stashed changes
 
 Write clear, meaningful commit messages.
 
@@ -43,7 +55,11 @@ Examples:
 
 Keep commits focused on related changes.
 
+<<<<<<< Updated upstream
 ## 4. Pull Request Workflow  
+=======
+## 4. Pull Request Workflow 
+>>>>>>> Stashed changes
 
 1. Update your local main branch.
 2. Create a branch for your task.
@@ -57,7 +73,11 @@ Keep commits focused on related changes.
 10. Address review feedback.
 11. Merge only after the required approvals and checks pass.
 
+<<<<<<< Updated upstream
 ## 5. Issue Linking
+=======
+## 5. Issue Linking 
+>>>>>>> Stashed changes
 
 Every pull request should reference its related GitHub Issue.
 
@@ -67,7 +87,11 @@ Closes #7
 
 Use the actual issue number associated with your task.
 
+<<<<<<< Updated upstream
 ## 6. Review Expectations
+=======
+## 6. Review Expectations 
+>>>>>>> Stashed changes
 
 Reviewers should check:
 
@@ -84,7 +108,11 @@ Reviewers should check:
 - Do not expose private credentials in code or pull requests.
 - Report accidentally exposed secrets to the team immediately.
 
+<<<<<<< Updated upstream
 ## 8. Before Merging
+=======
+## 8. Before Merging 
+>>>>>>> Stashed changes
 
 Confirm that:
 

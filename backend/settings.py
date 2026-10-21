@@ -23,7 +23,7 @@ except ValidationError:
         "CampusHub configuration is invalid. "
         "Set the required APP_ENV variable in your .env file "
         "or environment before starting the application."
-    )from None
+    ) from None
 
 
 

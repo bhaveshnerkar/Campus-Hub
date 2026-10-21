@@ -1,4 +1,4 @@
-# Contributing to CampusHub
+# Contributing to Campus-Hub
 
 ## 1. Before Starting
 
@@ -7,7 +7,7 @@
 - Avoid duplicating work already assigned to another contributor.
 - Ask the team if anything is unclear.
 
-## 2. Branch Naming
+## 2. Branch Naming  
 
 Create a separate branch for each task.
 
@@ -43,7 +43,7 @@ Examples:
 
 Keep commits focused on related changes.
 
-## 4. Pull Request Workflow
+## 4. Pull Request Workflow  
 
 1. Update your local main branch.
 2. Create a branch for your task.

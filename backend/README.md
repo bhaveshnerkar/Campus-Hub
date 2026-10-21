@@ -30,3 +30,14 @@ Start the API server:
 Open http://127.0.0.1:8000 to check the API.
 
 Open http://127.0.0.1:8000/docs to explore the API endpoints.
+
+## Code Quality
+
+This project uses Ruff for Python linting and formatting.
+
+Run these commands from the project root:
+
+```bash
+ruff check backend/
+ruff format backend/
+```

@@ -1,4 +1,8 @@
 
 fastapi
 uvicorn[standard]
+
+ruff
+
 pydantic-settings
+
